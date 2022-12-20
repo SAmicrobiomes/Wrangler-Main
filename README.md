@@ -1,5 +1,5 @@
 # Welcome to Microbiome@UP Data Analysis Page
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This page will help you analyse your data by following a few simple steps (using the provided scripts of course)
 
 
