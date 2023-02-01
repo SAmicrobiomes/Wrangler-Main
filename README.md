@@ -6,8 +6,9 @@ If there is anything you feel needs to get revised or clarified please send it t
 
 ### Metagenomic data preprocessing 
 
-### 1 - FastQC
-      Before we get started, make sure you read up on what a fastq file is, and how different it is from a fasta. While at it check this [page as well] (https://support.illumina.com/help/BaseSpace_OLH_009008/Content/Source/Informatics/BS/QualityScoreEncoding_swBS.htm) to understand quality score encoding. This quality score encoding page should checked in concert with [this one here](https://en.wikipedia.org/wiki/Phred_quality_score).
+## 1 - FastQC
+
+Before we get started, make sure you read up on what a fastq file is, and how different it is from a fasta. While at it check this [page as well] (https://support.illumina.com/help/BaseSpace_OLH_009008/Content/Source/Informatics/BS/QualityScoreEncoding_swBS.htm) to understand quality score encoding. This quality score encoding page should checked in concert with [this one here](https://en.wikipedia.org/wiki/Phred_quality_score).
       
 ### 2 - Assembly
 
